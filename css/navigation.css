@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+}
+
+body {
+	background: white;
+}
+
+.navbar{
+	margin: 0px;
+}
+
+#navbar ul li>a{
+	color:white;
+}
+
+#navbar ul li a:hover{
+	background: white;
+	color: green;
+}
+
+.toggle-button{
+	color:white;
+	background-color: black;
+	border-color: black;
+}
+.navbar-header .navbar-brand{
+	color: white;
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+}
+
+.navbar-header .navbar-brand:hover{
+	background: white;
+	color:green;
+}
+.dropdown-menu{
+	background: black;
+}
